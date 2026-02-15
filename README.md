@@ -27,6 +27,7 @@ A real-time, private bookmark manager built with:
     🛡 Row Level Security (RLS)
     
 🧱 Tech Stack
+
     Layer	        Technology
     Frontend	    Next.js (App Router)
     Styling	        Tailwind CSS
